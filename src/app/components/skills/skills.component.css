@@ -1,6 +1,5 @@
-.skills{
-    
-    background-color: linear-gradient(180deg, #f2f6f9 0%, #fff 100%);
+#skills{
+    background: linear-gradient(180deg, #f2f6f9 0%, #fff 100%);
     padding: 60px 0;
     color: #5a656e;
 }
