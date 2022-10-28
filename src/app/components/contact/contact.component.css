@@ -1,0 +1,76 @@
+#contact{
+    background: linear-gradient(180deg, #f2f6f9 0%, #fff 100%);
+    padding: 60px 0;
+}
+
+.container{
+    max-width: 1320px;
+}
+
+.section-title{
+    padding-bottom: 30px;
+}
+.section-title h2{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    position: relative;
+    color: #345676;
+}
+
+.contact-about h3{
+    font-size: 36px;
+    margin: 0 0 10px 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 300;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #d43076;
+}
+
+.contact-about p{
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "Playfair Display", serif;
+    color: #3c6387;
+}
+
+.social-links{
+    padding-bottom: 20px;
+}
+
+.social-links i{
+    font-size: 18px;
+    display: inline-block;
+    background: #fff;
+    color: #d43076;
+    padding: 8px 0;
+    margin-right: 10px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+    border: 1px solid #d43076;
+}
+
+.info i{
+    font-size: 32px;
+    color: #d43076;
+    margin-right: 15px;
+}
+.info p{
+    font-size: 14px;
+
+}
+.text-center button[type=submit] {
+    background: #d43076;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+}
+
